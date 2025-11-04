@@ -23,7 +23,7 @@ To build and run this project, you will need to have the Flutter SDK installed.
 1.  Clone the repository:
 
     ```bash
-    git clone https://github.com/your-username/olive_counter.git
+    git clone https://github.com/sgkouzias/olive_counter.git
     ```
 
 2.  Navigate to the project directory:

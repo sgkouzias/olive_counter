@@ -1,6 +1,6 @@
 # Olive Counter
 
-A simple olive fruit counter app using a TFLite model.
+A simple olive fruit counter app powered by a TFLite model.
 
 ## Features
 
